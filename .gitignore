@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+composer.phar
+/vendor/
+
+# Commit your application's lock file https://getcomposer.org/doc/01-basic-usage.md#commit-your-composer-lock-file-to-version-control
+# You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
+# composer.lock
+>>>>>>> c2d9e8821bcd1f333032d77a8775d6236a1bbb7c
 logs
 target
 /.idea
@@ -14,3 +23,4 @@ ensime.sbt
 .cache-tests
 .ensime
 .ensime_cache/
+project/
