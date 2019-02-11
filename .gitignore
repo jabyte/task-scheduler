@@ -1,0 +1,16 @@
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+pc.stdout.log
+bin/
+ensime-langserver.log
+ensime.sbt
+.cache-main
+.cache-tests
+.ensime
+.ensime_cache/
